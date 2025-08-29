@@ -4,118 +4,118 @@
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.19+-green.svg)](https://www.minecraft.net/)
 [![Spigot](https://img.shields.io/badge/Spigot-1.19+-yellow.svg)](https://www.spigotmc.org/)
 
-> **Améliore les outils en diamant/netherite de manière progressive et immersive**
+> **Enhance diamond/netherite tools with progressive and immersive improvements**
 
-BetterToolsPlus est un plugin Minecraft qui améliore votre expérience de jeu en ajoutant un système de progression pour vos outils, des conteneurs personnalisés et des compétences spécialisées !
+BetterToolsPlus is a Minecraft plugin that enhances your gaming experience by adding a progression system for your tools, custom containers, and specialized skills!
 
-## ✨ Fonctionnalités
+## ✨ Features
 
-### 🛠️ Outils Améliorés
-- Vos outils gagnent de l'expérience et des niveaux
-- Débloquez des enchantements automatiquement
-- Supporte pioches, haches, pelles, houes, épées et arcs
-- Compatible avec les outils en fer, diamant et netherite
+### 🛠️ Enhanced Tools
+- Your tools gain experience and levels
+- Unlock enchantments automatically
+- Supports pickaxes, axes, shovels, hoes, swords, and bows
+- Compatible with iron, diamond, and netherite tools
 
-### 🏗️ Conteneurs Personnalisés
-- Coffres avec plus d'espace de stockage
-- Fours que vous pouvez nommer
-- Liez vos fours à des coffres pour un transfert automatique
-- Interface graphique intuitive
+### 🏗️ Custom Containers
+- Chests with more storage space
+- Furnaces you can name
+- Link your furnaces to chests for automatic transfer
+- Intuitive graphical interface
 
-### 🎯 Compétences Spéciales
-- **Abattage d'arbres** : Coupez des arbres entiers d'un coup
-- **Excavation** : Minez de grandes zones efficacement
-- **Récolte de cultures** : Optimisez votre agriculture
-- **Attaque multiple** : Combat amélioré
-- **Mine de zone** : Extraction en masse
+### 🎯 Special Skills
+- **Tree Felling**: Cut entire trees with one swing
+- **Excavation**: Mine large areas efficiently
+- **Crop Harvesting**: Optimize your farming
+- **Multi Attack**: Enhanced combat
+- **Area Mining**: Mass extraction
 
-### 🌍 Support Multilingue
-- Français, Anglais, Allemand
-- Interface entièrement traduite
+### 🌍 Multi-language Support
+- French, English, German
+- Fully translated interface
 
 ## 📦 Installation
 
-### Prérequis
-- Minecraft 1.19 ou plus récent
-- Spigot/Paper 1.19 ou plus récent
+### Requirements
+- Minecraft 1.19 or newer
+- Spigot/Paper 1.19 or newer
 
-### Installation Rapide
-1. Téléchargez le fichier JAR depuis les [releases](https://github.com/KingTatouille/BetterToolsPlus/releases)
-2. Placez-le dans le dossier `plugins/` de votre serveur
-3. Redémarrez votre serveur
-4. Le plugin se configure automatiquement !
+### Quick Installation
+1. Download the JAR file from [releases](https://github.com/KingTatouille/BetterToolsPlus/releases)
+2. Place it in your server's `plugins/` folder
+3. Restart your server
+4. The plugin configures itself automatically!
 
-## 🎮 Commandes
+## 🎮 Commands
 
-| Commande | Description |
-|----------|-------------|
-| `/btp` | Commande principale |
-| `/toolxp` | Voir l'XP de vos outils |
-| `/toolbonus` | Voir vos bonus actifs |
+| Command | Description |
+|---------|-------------|
+| `/btp` | Main command |
+| `/toolxp` | View your tools' XP |
+| `/toolbonus` | View your active bonuses |
 | `/btpconfig` | Configuration (admin) |
-| `/container` | Gérer les conteneurs |
+| `/container` | Manage containers |
 
 ## 🔧 Permissions
 
-- `bettertoolsplus.use` - Utiliser les commandes de base
-- `bettertoolsplus.container` - Gérer les conteneurs
-- `bettertoolsplus.admin` - Accès administrateur
+- `bettertoolsplus.use` - Use basic commands
+- `bettertoolsplus.container` - Manage containers
+- `bettertoolsplus.admin` - Administrator access
 
-## 🐛 Problèmes & Support
+## 🐛 Issues & Support
 
-### Signaler un Bug
-Si vous rencontrez un problème :
+### Reporting a Bug
+If you encounter a problem:
 
-1. **Vérifiez d'abord** si le problème est déjà signalé dans les [Issues](https://github.com/KingTatouille/BetterToolsPlus/issues)
-2. **Créez une nouvelle issue** avec :
-   - Description claire du problème
-   - Version de Minecraft/Spigot utilisée
-   - Version du plugin
-   - Étapes pour reproduire le bug
-   - Logs d'erreur (si disponibles)
+1. **Check first** if the issue is already reported in [Issues](https://github.com/KingTatouille/BetterToolsPlus/issues)
+2. **Create a new issue** with:
+   - Clear description of the problem
+   - Minecraft/Spigot version used
+   - Plugin version
+   - Steps to reproduce the bug
+   - Error logs (if available)
 
-### Problèmes Courants
+### Common Issues
 
-**Le plugin ne se charge pas**
-- Vérifiez que vous utilisez Spigot/Paper 1.19+
-- Vérifiez les logs du serveur
+**Plugin doesn't load**
+- Check that you're using Spigot/Paper 1.19+
+- Check server logs
 
-**Les outils ne gagnent pas d'XP**
-- Vérifiez les permissions
-- Vérifiez que vous utilisez un outil compatible
+**Tools don't gain XP**
+- Check permissions
+- Verify you're using a compatible tool
 
-**Les conteneurs ne fonctionnent pas**
-- Vérifiez la permission `bettertoolsplus.container`
-- Redémarrez le serveur
+**Containers don't work**
+- Check the `bettertoolsplus.container` permission
+- Restart the server
 
-### Obtenir de l'Aide
+### Getting Help
 
-- **GitHub Issues** : [Signaler un bug](https://github.com/KingTatouille/BetterToolsPlus/issues)
-- **Discord** : [Rejoindre la communauté](https://discord.gg/your-discord) *(lien à ajouter)*
-- **Documentation** : [Wiki du projet](https://github.com/KingTatouille/BetterToolsPlus/wiki)
+- **GitHub Issues**: [Report a bug](https://github.com/KingTatouille/BetterToolsPlus/issues)
+- **Discord**: [Join the community](https://discord.gg/your-discord) *(link to be added)*
+- **Documentation**: [Project Wiki](https://github.com/KingTatouille/BetterToolsPlus/wiki)
 
-## 📊 Informations
+## 📊 Information
 
-- **Version actuelle** : 2.1.0
-- **Compatibilité** : Minecraft 1.19+
-- **Langues** : Français, Anglais, Allemand
-- **Intégrations** : WorldGuard, Vault, PlaceholderAPI, MythicMobs, MMOCore, UpgradeableHoppers
+- **Current version**: 2.1.0
+- **Compatibility**: Minecraft 1.19+
+- **Languages**: French, English, German
+- **Integrations**: WorldGuard, Vault, PlaceholderAPI, MythicMobs, MMOCore, UpgradeableHoppers
 
-## 🤝 Contribution
+## 🤝 Contributing
 
-Vous voulez contribuer ? C'est possible !
+Want to contribute? It's possible!
 
-1. **Signalez des bugs** via les Issues
-2. **Proposez des améliorations** 
-3. **Aidez à traduire** le plugin
-4. **Partagez vos idées** avec la communauté
+1. **Report bugs** via Issues
+2. **Suggest improvements**
+3. **Help translate** the plugin
+4. **Share your ideas** with the community
 
-## 📄 Licence
+## 📄 License
 
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
-**BetterToolsPlus** - Transformez votre expérience Minecraft ! 🎮✨
+**BetterToolsPlus** - Transform your Minecraft experience! 🎮✨
 
-*N'hésitez pas à nous contacter si vous avez des questions ou des problèmes !*
+*Don't hesitate to contact us if you have questions or issues!*
